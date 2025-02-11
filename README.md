@@ -9,7 +9,7 @@ Chaque projet SAE couvre différents aspects du développement logiciel, allant 
 
 ---
 
-# 📂 Structure des Projets
+# 📂 Structure des Projets (Java, Python, etc.)
 
 Chaque projet de ce répertoire suit une structure cohérente pour rester organisé et facile à naviguer :
 
@@ -25,7 +25,14 @@ N'hésitez pas à explorer les projets pour voir comment mes compétences évolu
 
 ---
 
+
+# 📂 Structure des Projets SQL
+
+Les projets SQL n'ont généralement pas de structure précise. Vous y trouverez principalement des fichiers de requêtes, de schémas de bases de données, et des scripts d'import/export de données.
+
+---
+
 # 📢 Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. Connectons-nous et partageons des idées pour progresser ensemble dans le monde de la tech ! 🚀
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter !🚀
 
